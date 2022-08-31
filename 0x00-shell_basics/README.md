@@ -1,0 +1,1 @@
+ #!/bin/bash/necho Task 0 Where am I?
